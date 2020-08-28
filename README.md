@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**95tann/95tann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Software Engineer at the world's largest e-ecommerce investor [Clearbanc](https://clearbanc.com/)
+- 🎓 Graduated from [University of Waterloo](https://cs.uwaterloo.ca/about)
+- 📍 Toronto, Canada 🇨🇦
+- 💬 Ask me about football ⚽ , keys 🎹 , and backpacking on a budget 🎒 🌏  
+- 🤝 Connect with on [LinkedIn](https://www.linkedin.com/in/tanmaysha/)
+- 🤿 Fun fact: I'm a certified scuba diver and have swam with the world's largest fish, whale sharks 🐋 ,
 
-Here are some ideas to get you started:
+#### Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python, SQL, JavaScript, TypeScript, C, C++, HTML/CSS
+
+#### Tools & Technologies
+
+Node.js, Vue.js, Flask, IPython/Jupyter, Tableau 
