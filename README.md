@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-- 👨‍💻 Software Engineer at the world's largest e-ecommerce investor [Clearbanc](https://clearbanc.com/)
+- 👨‍💻 Software Engineer at the world's largest e-commerce investor [Clearbanc](https://clearbanc.com/)
 - 🎓 Graduated from [University of Waterloo](https://cs.uwaterloo.ca/about)
 - 📍 Toronto, Canada 🇨🇦
 - 💬 Ask me about football ⚽ , keys 🎹  , or backpacking on a budget 🎒 🌏  
