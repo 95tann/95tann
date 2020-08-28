@@ -5,7 +5,7 @@
 - 📍 Toronto, Canada 🇨🇦
 - 💬 Ask me about football ⚽ , keys 🎹 , and backpacking on a budget 🎒 🌏  
 - 🤝 Connect with on [LinkedIn](https://www.linkedin.com/in/tanmaysha/)
-- 🤿 Fun fact: I'm a certified scuba diver and have swam with the world's largest fish, whale sharks 🐋 ,
+- 🤿 Fun fact: I'm a certified scuba diver and have swam with the world's largest fish, whale sharks 🐋
 
 #### Languages
 
