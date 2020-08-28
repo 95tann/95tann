@@ -13,4 +13,4 @@ Python, SQL, JavaScript, TypeScript, C, C++, HTML/CSS
 
 #### Tools & Technologies
 
-Node.js, Vue.js, Flask, IPython/Jupyter, Tableau 
+Node.js, Vue.js, Flask, IPython/Jupyter, Hive, Tableau 
