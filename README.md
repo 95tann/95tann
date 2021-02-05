@@ -21,9 +21,9 @@
 #### Tools & Technologies
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express)
+![Vue.js](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue.js&logoColor=#4FC08D)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes)
 ![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat&logo=Tableau)
-![Vue.js](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue.js&logoColor=#4FC08D)
 ![Jupyter](http://img.shields.io/badge/-Jupyter-000000?style=flat&logo=Jupyter&logoColor=#F37626)
