@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-- 👨‍💻 Software Engineer at the world's largest e-commerce investor [Clearbanc](https://clearbanc.com/)
+- 👨‍💻 Software Engineer at the world's largest e-commerce investor [Clearco](https://clear.co/)
 - 🎓 Graduated from [University of Waterloo](https://cs.uwaterloo.ca/about)
 - 💬 Ask me about football ⚽ , keys 🎹  , or backpacking on a budget 🎒 🌏  
 - 🤝 Connect with on [![Linkedin Badge](https://img.shields.io/badge/-Tanmay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanmaysha/)](https://www.linkedin.com/in/tanmaysha/) 
